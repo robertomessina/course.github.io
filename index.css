@@ -1,0 +1,49 @@
+html{
+    margin: 0;
+}
+
+body{
+    margin: 0 auto;
+    background: linear-gradient(to right, #c55d54, #351254);
+}
+
+
+/*
+@media screen and (min-width: ){
+
+}
+
+*/
+
+
+h1 {
+    text-align: center;
+    margin: 0.1em;
+    font-size: 5em;
+    color: white;
+    background-color: black;
+    /* background-color: #351254;*/
+    border-radius: 5em;
+}
+
+
+#course {
+    position: fixed;
+    left: 2em;
+}
+
+#voiture {
+    position: fixed;
+    right: 0.5em;
+}
+
+aside {
+    width: 40%;
+    padding: 3em;
+}
+
+img{
+    border-radius: 100%;
+    width: 90%;
+    text-align: center;
+}
